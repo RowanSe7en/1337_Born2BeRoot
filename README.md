@@ -1,3 +1,4 @@
+<div align="center">
 
 ```
 ██████╗  ██████╗ ██████╗ ███╗   ██╗██████╗ ██████╗ ███████╗██████╗  ██████╗  ██████╗ ████████╗
@@ -10,7 +11,18 @@
 
 *This project has been created as part of the 42 curriculum.*
 
+![Language](https://img.shields.io/badge/language-Linux-blue?style=flat-square)
+![School](https://img.shields.io/badge/school-42-black?style=flat-square)
+![Author](https://img.shields.io/badge/author-brouane-purple?style=flat-square)
+![Status](https://img.shields.io/badge/status-completed-brightgreen?style=flat-square)
+
+</div>
+
 ---
+
+## ✅ Project grade screenshot
+
+![Project screenshot](readme_asset/Screenshot.png)
 
 # Born2beRoot 🖥️
 
